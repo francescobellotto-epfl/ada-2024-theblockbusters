@@ -1,4 +1,4 @@
-# The recipe for a successful 
+# The recipe for a successful movie
 **Link for the data story:** [https://ferioliste.github.io/theblockbusters-datastory/](https://ferioliste.github.io/theblockbusters-datastory/)
 
 ### Abstract
